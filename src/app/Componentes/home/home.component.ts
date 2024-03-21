@@ -22,6 +22,7 @@ export class HomeComponent implements OnInit{
     _CargarScripts.scripPlugins7(["scripPlugins7"]);
     _CargarScripts.scripPlugins8(["scripPlugins8"]);
     _CargarScripts.scripPlugins9(["scripPlugins9"]);
+    _CargarScripts.scripGlobalInit(["scripPlugins10"]);
     _CargarScripts.scripGlobalInit(["scripGlobalInit"]);
   }
 
